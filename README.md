@@ -1,6 +1,4 @@
-# Let's create the README.md file with the provided LinkedIn story content
 
-readme_content = """
 # 📊 HR Analytics Dashboard – Power BI Project
 
 ## 📌 Introduction
